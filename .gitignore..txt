@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+.env/
+
+# Dados brutos (não versionar)
+data/raw/
+
+# Arquivos grandes de outra origem
+*.zip
