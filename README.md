@@ -24,7 +24,7 @@ python src/olimpiadas.py
 ```
 ## Resultados Principais
 
-![LogLikelihood dos Modelos](notebooks/Loglik dos modelos.png)
+![LogLikelihood dos Modelos](docs/loglik_modelos.png)
 
 > “O ZINB apresentou Loglik -265.551 e destacou `num_eventos` como único preditor significativo.”
 
